@@ -12,4 +12,4 @@ http://twweather.com
 * 中央氣象局爬蟲(crawler/cwb_crawler.php)有使用到匯入資料到MongoDB的功能，如果不需要請刪除。（建議將中央氣象局爬蟲時間設定在20-25分鐘一次）
 
 ### 授權方式
-本專案採用MIT授權，詳細內容請參考licence.txt
+本專案採用MIT授權，詳細內容請參考license.txt
