@@ -16,8 +16,6 @@
       <script src="js/html5shiv.js"></script>
     <![endif]-->
 	<script type="text/javascript" src="https://www.google.com/jsapi"></script>
-    <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
-    <script type="text/javascript" src="js/bootstrap-dropdown.js"></script>
     
     <script>
 	google.load("visualization", "1", {packages:["corechart"]});
@@ -279,8 +277,8 @@
     <!-- Le javascript
     ================================================== -->
     <!-- Placed at the end of the document so the pages load faster -->
-    <script src="js/jquery.js"></script>
-    <script src="js/bootstrap-dropdown.js"></script>
+    <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
+    <script type="text/javascript" src="js/bootstrap-dropdown.js"></script>
 
   </body>
 </html>
